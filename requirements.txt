@@ -1,0 +1,25 @@
+# Seg-NN CPU Implementation - Python Dependencies
+
+# Deep Learning Framework
+torch==1.12.0
+torchvision==0.13.0
+
+# Scientific Computing
+numpy>=1.19.0,<1.24.0
+scipy>=1.5.0
+scikit-learn>=0.23.0
+
+# Data Handling
+h5py>=2.10.0
+pyyaml>=5.4.0
+
+# Utilities
+tqdm>=4.60.0
+matplotlib>=3.3.0
+
+# Optional: Visualization
+# open3d>=0.13.0  # Uncomment if needed for point cloud visualization
+
+# Development Tools (Optional)
+# tensorboard>=2.4.0  # Uncomment for training visualization
+# jupyter>=1.0.0      # Uncomment for notebook support
